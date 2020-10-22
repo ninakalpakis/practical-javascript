@@ -1,0 +1,25 @@
+html {
+  color: pink;
+  font-size: 16px;
+  line-height: 2;
+}
+
+body {
+  background-color: cadetblue;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+  font-size: 48px;
+}
+
+ul {
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: pink;
+  border: solid;
+}
